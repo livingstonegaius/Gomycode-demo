@@ -1,2 +1,2 @@
-# Gomycode-demo
+# Gomycode-files
 Gomycode projects
